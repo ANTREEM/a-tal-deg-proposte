@@ -1,5 +1,9 @@
 # A Tal Deg
 
+A Tal Deg è il nome che abbiamo dato ai nostri incontri post lavoro in cui ci confrontiamo su temi legati allo Sviluppo e al Design.
+
+Uno spazio per condividere idee, dubbi, proposte e approfondire temi di comune interesse.  
+
 ### Vuoi partecipare ai nostri eventi?
 
 Vota una proposta e clicca sul link che trovi all'interno della pagina dedicata
